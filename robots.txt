@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cleaning-s52.pages.dev/sitemap.xml
